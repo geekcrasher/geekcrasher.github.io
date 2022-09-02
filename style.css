@@ -29,8 +29,8 @@ body {
     background-color: var(--white);
     box-shadow: 5px 5px 5px rgba(0 0 0 0 .4);
     border-radius: 1rem;
-    height: 600px;
-    width: 400px;
+    height: 470px;
+    width: 300px;
     padding: 1rem;
     margin: 1rem;
 }
@@ -40,7 +40,7 @@ body {
     height: auto;
 }
 
-.container > h1 {
+.container > h3 {
     font-weight: 700;
     text-align: center;
     color: var(--dark-blue);
@@ -53,7 +53,7 @@ body {
 }
 
 .attribution { 
-    font-size: 0.688rem; 
+    font-size: 0.800rem; 
     text-align: center; 
 }
 
